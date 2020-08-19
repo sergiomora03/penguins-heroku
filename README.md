@@ -1,4 +1,4 @@
-[![PyPI version](https://badge.fury.io/py/sklearn.svg)](https://badge.fury.io/py/sklearn)
+[![PyPI version](https://badge.fury.io/py/streamlit.svg)](https://badge.fury.io/py/streamlit)
 
 # Penguins web app deployed on Heroku
 
