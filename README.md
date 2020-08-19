@@ -1,5 +1,4 @@
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
+[![PyPI version](https://badge.fury.io/py/sklearn.svg)](https://badge.fury.io/py/sklearn)
 
 # Penguins web app deployed on Heroku
 
@@ -14,5 +13,3 @@ The web app was built in Python using the following libraries:
 * scikit-learn
 * pickle
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
