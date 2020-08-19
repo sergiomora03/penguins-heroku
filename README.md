@@ -1,4 +1,4 @@
-# Penguins web app deployed on Heroku [![HitCount](http://hits.dwyl.com/sergiomora03/penguins-heroku.svg?style=plastic)](http://hits.dwyl.com/sergiomora03/penguins-heroku)
+# Penguins web app deployed on Heroku [![HitCount](http://hits.dwyl.com/sergiomora03/penguins-heroku.svg?style=plastic&logo=appveyor)](http://hits.dwyl.com/sergiomora03/penguins-heroku)
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sergiomora03/penguins-heroku/issues)
 
