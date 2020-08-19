@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/sergiomora03/ penguins-heroku.svg)](http://hits.dwyl.com/sergiomora03/penguins-heroku)
+[![HitCount](http://hits.dwyl.com/sergiomora03/penguins-heroku.svg)](http://hits.dwyl.com/sergiomora03/penguins-heroku)
 
 # Penguins web app deployed on Heroku
 
