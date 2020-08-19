@@ -9,5 +9,5 @@ The web app was built in Python using the following libraries:
 * pandas [![PyPI version](https://badge.fury.io/py/pandas.svg)](https://badge.fury.io/py/pandas)
 * numpy [![PyPI version](https://badge.fury.io/py/numpy.svg)](https://badge.fury.io/py/numpy)
 * scikit-learn [![PyPI version](https://badge.fury.io/py/scikit-learn.svg)](https://badge.fury.io/py/scikit-learn)
-* pickle [![PyPI version](https://badge.fury.io/py/pickle.svg)](https://badge.fury.io/py/pickle)
+* pickle 
 
